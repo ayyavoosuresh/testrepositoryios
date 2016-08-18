@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7924D2DD1A834AC8E41C06628DE6B5382A49E0E2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7924D2DD1A834AC8E41C06628DE6B5382A49E0E2" : 0,
+    "EFC0FAF5C351145DAC70F4F34A226CF44C93A427" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C171124A-5EA4-40EF-BECF-9E270032DB75",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7924D2DD1A834AC8E41C06628DE6B5382A49E0E2" : "testrepositoryios\/",
+    "EFC0FAF5C351145DAC70F4F34A226CF44C93A427" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TestingApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TestingApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ayyavoosuresh\/testrepositoryios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7924D2DD1A834AC8E41C06628DE6B5382A49E0E2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/keljin-iapps\/testrepository.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EFC0FAF5C351145DAC70F4F34A226CF44C93A427"
+    }
+  ]
+}
